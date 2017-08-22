@@ -11,7 +11,7 @@ INSTALAÇÃO
 - Entre em Addons -> NFe.io e em seguida clique na aba Configurações.
 - Preencha corretamente todos os ítens. No caso dos campos personalizados (Campo CPF/CNPJ, Campo Número, Campo Complemento e Campo Emitir NF), caso os mesmo já não existam cadastrados, basta clicar na opção "clique aqui para criar" localizado no final da descrição de cada ítem e o mesmo será criado e selecionado automaticamente.
 - Após salvar corretamente as configurações, acesse o perfil cadastral de cada cliente e preencha os campos criados. Os campos CPF/CNPJ, Número e Emitir NF são de preenchimento obrigatório.
-- No caso do campo Emitir NF, por se tratar de um campo "select", o mesmo deverá ter uma opção escolhida pra cada cliente. Por padrão ele vem pré-selecionado "Nenhum" em todos os clientes. Isso significa que não será gerada nenhuma nota fiscal. Para que a nota fiscal seje gerada, basta escolher uma dar opções, se será gerada ao criar a fatura ou ao pagamento da fatura.
+- No caso do campo Emitir NF, por se tratar de um campo "select", o mesmo deverá ter uma opção escolhida pra cada cliente. Por padrão ele vem pré-selecionado "Nenhum" em todos os clientes. Isso significa que não será gerada nenhuma nota fiscal. Para que a nota fiscal seja gerada, basta escolher uma dar opções, se será gerada ao criar a fatura ou ao pagamento da fatura.
 - As notas fiscais poderão ser visualizadas em Addons -> NFe.io.
 - Acesse o painel da NFe.io, clique em Conta, clique na aba Webhook localizado no submenu e em seguida Criar Webhook (https://app.nfe.io/hooks/new).
 - Em Endereço (URL) informe a URL de retorno do seu WHMCS (http://www.seu_whmcs.com.br/modules/addons/nfeio/webhook.php) substituindo www.seu_whmcs.com.br pelo endereço do seu WHMCS e clique em Salvar.
